@@ -1,0 +1,134 @@
+.banner{
+    color: #000;
+    font-size: 50px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    line-height: 1.13;
+    margin: 0 auto;
+    padding: 193px 18px 23px;
+    text-align: center;
+    text-shadow: 0 2px 12px rgba(0,0,0,0.5);
+}
+
+.banInput{
+  -webkit-appearance: none;
+  background: #fff;
+  border: 2px solid black;
+  border: none;
+  border-radius: 2px 0 0 2px;
+  font-size: 20px;
+  line-height: 1;
+  margin-top: 0;
+  overflow: hidden;
+  padding: 7px;
+  text-indent: 16px;
+  text-overflow: ellipsis;
+  width: 602px;
+  height: 39px;
+  position: absolute;
+  margin: -262px -14px 19px -300px;
+}
+
+.forRenters{
+    border-bottom: 1px solid #aaa;
+    font-weight: 700;
+    line-height: 0em;
+    margin: 10px auto 20px;
+    text-align: center;
+    padding: 16px 21px 0px 11px;
+    
+}
+
+.forRents{
+    background: #fff;
+    border: 1px solid #aaa;
+    border-radius: 2px;
+    color: #000a73;
+    font-size: 18px;
+    font-weight: 900;
+    letter-spacing: 0.8px;
+    padding: 1px 8px;
+}
+
+.para1{
+    color: #0b041c;
+    float: left;
+    margin-right: 62px;
+    width: 536px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.4;
+    margin: 29px 13px 13px 205px;
+    display: flex;
+    text-align: left;
+    font-style:NunitoSans,sans-sefif;
+}
+
+
+.startButton{
+    background-color: #20C1C9;
+    border-radius: 2px;
+    color: #FFFFFF;
+    font-size: 17px;
+    height: 40px;
+    line-height: 20px;
+    width: 194px;
+    margin: -5px 488px 35px -55px;
+    white-space: nowrap;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+.letBox{
+ 
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    margin:10px 10px 10px 10px;
+    margin: -281px 47px 71px 805px;
+    
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+    font-size: 20px;
+  }
+
+  p{
+      font-size: 15px;  
+  }
+
+  .see{
+    color: blue;
+    margin:14px 49px 10px 10px;
+  }
+
+  .grade{
+    margin:13px 172px 10px 10px;
+  }
+
+  .stnds{
+    margin:11px -28px 10px 10px;
+  }
+
+  .sofa{
+    width: 1501px; 
+    height: 479px;
+    margin: -115px 11px -11px -9px
+  }
+  
+  .find{
+    position: absolute;
+    margin: -315px 38px 54px 182px;
+    color: white;
+  }
+
+  
+
+

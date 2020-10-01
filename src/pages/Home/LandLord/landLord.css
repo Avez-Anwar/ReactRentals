@@ -1,0 +1,167 @@
+.list {
+  align-items: center;
+  background: #f7f7f7;
+  display: flex;
+  margin: 39px 5px 30px 237px;
+  width: 77%;
+}
+
+.listr {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 30px;
+  margin: 96px 25px -16px -360px;
+}
+
+.lists {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+.startsButton {
+  background-color: #20c1c9;
+  border-radius: 3px;
+  color: #ffffff;
+  font-size: 17px;
+  height: 40px;
+  line-height: 20px;
+  width: 194px;
+  margin: -128px 26px 35px 272px;
+  position: absolute;
+}
+
+.list1 {
+  align-items: center;
+  background: #f7f7f7;
+  display: flex;
+  margin: 40px 34px 29px 276px;
+  width: 40%;
+}
+
+.listr1 {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+.startsButton1 {
+  background-color: #20c1c9;
+  position: absolute;
+  border-radius: 4px;
+  color: #ffffff;
+  font-size: 17px;
+  height: 40px;
+  line-height: 20px;
+  width: 194px;
+  margin: -106px 28px 6px -252px;
+}
+
+.list2 {
+  align-items: center;
+  background: #f7f7f7;
+  display: flex;
+  margin: 40px 34px 29px 563px;
+  width: 40%;
+}
+
+.listr2 {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+.startsButton2 {
+  background-color: #20c1c9;
+  border-radius: 4px;
+  position: absolute;
+  margin: -113px -731px 34px 277px;
+  color: #ffffff;
+  font-size: 17px;
+  height: 40px;
+  line-height: 20px;
+  width: 194px;
+}
+
+.sss {
+  width: 374px;
+  margin: -95px 253px 17px 335px;
+  height: 271px;
+}
+
+.post {
+  margin: -197px 37px 24px 759px;
+  position: absolute;
+  line-height: 26px;
+  font-weight: 400;
+  text-align: left;
+  font-family: NunitoSans, sans-serif;
+  color: #0b041c;
+  font-size: 17px;
+}
+
+.headerList {
+  margin: -52px -923px -74px 757px;
+  text-align: left;
+  position: absolute;
+}
+
+.lista {
+  align-items: center;
+  background: #f7f7f7;
+  display: flex;
+  margin: 39px 1px 33px 203px;
+  width: 80%;
+}
+
+.listra {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 6px;
+  margin: 96px 25px -16px -360px;
+}
+
+.headerLista {
+  margin: -60px -914px -73px 374px;
+  position: absolute;
+}
+
+.sssa {
+  width: 374px;
+  margin: -95px 253px 21px 901px;
+  height: 271px;
+}
+
+.posta {
+  margin: -226px 47px 21px 375px;
+  position: absolute;
+  line-height: 26px;
+  font-weight: 400;
+  text-align: left;
+  font-family: NunitoSans, sans-serif;
+  color: #0b041c;
+  font-size: 17px;
+}
+
+.startsButtona {
+  background-color: #20c1c9;
+  border-radius: 3px;
+  color: #ffffff;
+  font-size: 17px;
+  height: 40px;
+  line-height: 20px;
+  width: 194px;
+  margin: 97px 0px 32px -1153px;
+  position: absolute;
+}
+
+.postz {
+  margin: -206px 35px 19px 760px;
+  position: absolute;
+  line-height: 26px;
+  font-weight: 400;
+  text-align: left;
+  font-family: NunitoSans, sans-serif;
+  color: #0b041c;
+  font-size: 17px;
+}
